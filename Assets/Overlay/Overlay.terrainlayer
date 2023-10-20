@@ -7,7 +7,7 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Overlay
-  m_DiffuseTexture: {fileID: 2800000, guid: 04c9a15b63c76a549ba6c722873dff00, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: 2f5e7a842670cfd42a47da866afb3b95, type: 3}
   m_NormalMapTexture: {fileID: 0}
   m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 10000, y: 10000}
