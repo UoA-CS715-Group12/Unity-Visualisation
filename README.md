@@ -1,7 +1,7 @@
 # Unity-Visualisation
 
 ## Set up
-Unity version 2022.3.2f1
+Unity version 2022.3.5f1
 
 ## Instructions
 1. Open up the Unity project in root folder.
