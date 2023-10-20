@@ -12,4 +12,12 @@ Unity version 2022.3.5f1
 
 ### Follow the red numbers in the image below if you want to change the overlay image for the 3D terrain.
 
-![image](https://github.com/UoA-CS715-Group12/Unity-Visualisation/assets/69305722/e246f6e0-91fd-4231-b704-1e5bcf834852)
+![image](https://github.com/UoA-CS715-Group12/Unity-Visualisation/assets/69305722/bdfb406a-5516-4d95-843e-e41c6e4f7bd4)
+
+## Control
+| Key Controls | Descriptions |
+| ------------- | ------------- |
+| W/A/S/D | Forward/left/right/backward movement |
+| Q/E | Up/down movement |
+| Shift | Hold it will speed up the movement |
+| Mouse 2 (right-click) | Hold and move the mouse to move your camera in Unity |
