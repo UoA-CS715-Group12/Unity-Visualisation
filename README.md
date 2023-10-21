@@ -13,7 +13,7 @@ Unity version 2022.3.5f1
 
 ### Follow the red numbers in the image below if you want to change the overlay image for the 3D terrain.
 
-![image](https://github.com/UoA-CS715-Group12/Unity-Visualisation/assets/69305722/b2b7151f-614b-4b6e-b23b-7546139bb09c)
+![image](https://github.com/UoA-CS715-Group12/Unity-Visualisation/assets/69305722/2aed9264-b8be-4155-972a-e80e6a536d3c)
 
 ## Control
 | Key Controls | Descriptions |
